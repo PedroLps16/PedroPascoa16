@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PedroPascoa16
+- Sou estudante do Alura
+- Gosto de let
+- Gosto de jogar video game
